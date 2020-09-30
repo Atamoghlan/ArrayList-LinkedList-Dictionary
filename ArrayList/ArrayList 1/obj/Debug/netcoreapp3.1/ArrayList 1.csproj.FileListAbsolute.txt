@@ -1,0 +1,13 @@
+C:\Users\Аташ\source\repos\ArrayList\ArrayList 1\bin\Debug\netcoreapp3.1\ArrayList 1.exe
+C:\Users\Аташ\source\repos\ArrayList\ArrayList 1\bin\Debug\netcoreapp3.1\ArrayList 1.deps.json
+C:\Users\Аташ\source\repos\ArrayList\ArrayList 1\bin\Debug\netcoreapp3.1\ArrayList 1.runtimeconfig.json
+C:\Users\Аташ\source\repos\ArrayList\ArrayList 1\bin\Debug\netcoreapp3.1\ArrayList 1.runtimeconfig.dev.json
+C:\Users\Аташ\source\repos\ArrayList\ArrayList 1\bin\Debug\netcoreapp3.1\ArrayList 1.dll
+C:\Users\Аташ\source\repos\ArrayList\ArrayList 1\bin\Debug\netcoreapp3.1\ArrayList 1.pdb
+C:\Users\Аташ\source\repos\ArrayList\ArrayList 1\obj\Debug\netcoreapp3.1\ArrayList 1.csprojAssemblyReference.cache
+C:\Users\Аташ\source\repos\ArrayList\ArrayList 1\obj\Debug\netcoreapp3.1\ArrayList 1.AssemblyInfoInputs.cache
+C:\Users\Аташ\source\repos\ArrayList\ArrayList 1\obj\Debug\netcoreapp3.1\ArrayList 1.AssemblyInfo.cs
+C:\Users\Аташ\source\repos\ArrayList\ArrayList 1\obj\Debug\netcoreapp3.1\ArrayList 1.csproj.CoreCompileInputs.cache
+C:\Users\Аташ\source\repos\ArrayList\ArrayList 1\obj\Debug\netcoreapp3.1\ArrayList 1.dll
+C:\Users\Аташ\source\repos\ArrayList\ArrayList 1\obj\Debug\netcoreapp3.1\ArrayList 1.pdb
+C:\Users\Аташ\source\repos\ArrayList\ArrayList 1\obj\Debug\netcoreapp3.1\ArrayList 1.genruntimeconfig.cache
